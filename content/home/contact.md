@@ -30,13 +30,12 @@ content:
   address:
     street: Chaoyang
     city: Beijing
-    # region: CA
     postcode: '100124'
     country: China
     country_code: CN
-  coordinates:
-    latitude: '116.48134'
-    longitude: '39.8751'
+  # coordinates:
+  #   latitude: '116.48134'
+  #   longitude: '39.8751'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
