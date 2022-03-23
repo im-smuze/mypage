@@ -73,6 +73,6 @@ I am major in Computer Science.
 
 I received my Bachelor degree from University of Jinan in 2016, where I was adivsed by Prof. Lixin Du. 
 
-My research interests involved Computer Vision and its combination with Neural Language Processing, including Medical Report Generation and Image Captioning.
+My research interests involve Computer Vision and its combination with Natural Language Processing, including Medical Report Generation and Image Captioning.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
