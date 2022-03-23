@@ -30,10 +30,10 @@ content:
   address:
     street: Chaoyang
     city: Beijing
-    region: CA
+    # region: CA
     postcode: '100124'
-    country: China
-    country_code: CN
+    country: 'China'
+    country_code: 'CN'
   # coordinates:
   #   latitude: '116.48134'
   #   longitude: '39.8751'
