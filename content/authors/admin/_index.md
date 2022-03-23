@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Computer Science
+  - course: M.Eng. in Computer Science
     institution: Beijing University of Technology
     year: 2020-Now
-  - course: BEng in Computer Science
+  - course: B.Eng. in Computer Science
     institution: University of Jinan
     year: 2016-2020
 
@@ -69,8 +69,6 @@ highlight_name: true
 ---
 
 I am now a student of Engineering Master at Beijing University of Technology, adivsed by Lec. Xiaodan Zhang.
-
-I am major in Computer Science.
 
 I received my Bachelor degree from University of Jinan in 2016, where I was adivsed by Prof. Lixin Du. 
 
