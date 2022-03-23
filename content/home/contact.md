@@ -30,6 +30,7 @@ content:
   address:
     street: Chaoyang
     city: Beijing
+    region: CA
     postcode: '100124'
     country: China
     country_code: CN
