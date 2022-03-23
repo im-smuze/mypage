@@ -68,8 +68,9 @@ email: "xiaos@emails.bjut.edu.cn"
 highlight_name: true
 ---
 
-I am now a student of Engineering Master at Beijing University of Technology, and I am magior in Computer Science.
+I am now a student of Engineering Master at Beijing University of Technology.
+I am major in Computer Science.
 
-I received my Bachelor degree from University of Jinan in 2016, where I was adivsed by Prof. <a  href="http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/0301acc0-9786-6828-022d-147f81ca9c36/status/1.html" _blank>Lixin Du</a> 
+I received my Bachelor degree from University of Jinan in 2016, where I was adivsed by Prof. {{< staticref "http://2021.yzadm.ujn.edu.cn/Page/Dsxx/ssds_data/ssds_id/0301acc0-9786-6828-022d-147f81ca9c36/status/1.htmlf" "newtab" >}}Lixin Du{{< /staticref >}}. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
