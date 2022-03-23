@@ -68,9 +68,9 @@ email: "xiaos@emails.bjut.edu.cn"
 highlight_name: true
 ---
 
-I am now a student of Engineering Master at Beijing University of Technology, adivsed by Lec. Xiaodan Zhang.
+I am now pursuing a Master's Degree at Beijing University of Technology, adivsed by Lec. Xiaodan Zhang.
 
-I received my Bachelor degree from University of Jinan in 2016, where I was adivsed by Prof. Lixin Du. 
+I received my Bachelor's Degree from University of Jinan in 2020, where I was adivsed by Prof. Lixin Du. 
 
 My research interests involve Computer Vision and its combination with Natural Language Processing, including Medical Report Generation and Image Captioning.
 
