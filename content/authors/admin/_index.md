@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiao Song
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Beijing University of Technology
+  url: https://www.bjut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xiaos@emails.bjut.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
