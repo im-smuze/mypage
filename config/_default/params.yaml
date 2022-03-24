@@ -109,3 +109,6 @@ extensions:
   academicons:
     enable: true
 
+icon:
+  pack:
+    ai: false
