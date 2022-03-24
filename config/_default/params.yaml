@@ -11,10 +11,6 @@ appearance:
   font: minimal
   font_size: L
 
-ai:
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 # SEO
 
 marketing:
@@ -111,4 +107,6 @@ extensions:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true
   academicons:
+    enable: true
+  ai:
     enable: true
