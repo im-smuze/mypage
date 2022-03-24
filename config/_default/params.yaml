@@ -11,6 +11,10 @@ appearance:
   font: minimal
   font_size: L
 
+ai:
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 # SEO
 
 marketing:
