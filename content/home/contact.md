@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: https://twitter.com/mumu74559122
+      link: https://twitter.com/Xiao_S_
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
