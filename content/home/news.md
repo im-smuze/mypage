@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 <ul>
-<li>2022/03/15: My recent work "基于多尺度超像素融合网络的脑CT图像分类方法" was submitted to China MM 2022.</li>
+<li>2022/03/15: My recent work "基于多尺度超像素融合网络的脑CT图像分类方法(Multi-scale Superpixel based Fusion Network for Brain CT Classification)" was submitted to China MM 2022.</li>
 <li>2022/03/15: My recent work "Multi-scale Superpixel based Hierarchical Attention Model  for  Brain  CT  Classiﬁcation" was submitted to China MM 2022.</li>
 <li>2022/02/05: My recent work "Cross-modal Contrastive Attention Model for Medical Report Generation" was submitted to JBHI </li>
 <li>2021/09: I finished all my curriculums and got an Academic Scholarship.</li>
