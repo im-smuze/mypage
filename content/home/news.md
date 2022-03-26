@@ -23,10 +23,10 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 1
-  columns: '1'
+  view: citation
+  columns: '2'
 ---
-
+aaaa
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}} -->
