@@ -18,12 +18,12 @@ content:
   # Choose how many pages you would like to display (0 = all pages)
   count: 10
   # Choose how many pages you would like to offset by
-  offset: 10
+  offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: 1
   columns: '1'
 ---
 
