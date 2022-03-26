@@ -16,13 +16,14 @@ content:
   autolink: true
   
   # Email form provider
-  # form:
-  #   provider: netlify
-  #   formspree:
-  #     id:
-  #   netlify:
-  #     # Enable CAPTCHA challenge to reduce spam?
-  #     captcha: false
+
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
 
   # Contact details (edit or remove options as required)
   email: xiaos@emials.bjut.edu.cn
@@ -55,3 +56,4 @@ content:
 design:
   columns: '2'
 ---
+Any suggestion about website construction can be submitted through the following form:
