@@ -35,14 +35,9 @@ design:
   view: citation
   columns: '2'
 ---
-<style type="title">
-  font-size:20px;
-  font-weight:700
-</style>
 <ul>
 <li>
-<div><a href="https://github.com/im-smuze/FastCheck">
-<div class="title">FastCheck</div></a></br>
+<div><a href="https://github.com/im-smuze/FastCheck" style="font-size:20px;font-weight:700">FastCheck</a></br>
 <span>a WeChat mini app for accelerating Classrome Roll Call using Face-Recognition technology. </span></div>
 </li>
 
