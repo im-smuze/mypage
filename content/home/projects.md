@@ -37,7 +37,7 @@ design:
 ---
 <ul>
 <li>
-<div><a href="https://github.com/im-smuze/FastCheck" style="font-size:25px;font-weight:700">FastCheck</a></br>
+<div><a href="https://github.com/im-smuze/FastCheck" style="font-size:25px;font-weight:700" _blank>FastCheck</a></br>
 <span>a WeChat mini app for accelerating Classrome Roll Call using Face-Recognition technology. </span></div>
 </li>
 
