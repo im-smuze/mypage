@@ -46,4 +46,9 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-Waiting to be added...
+<ul>
+<li>
+<div><a href="https://github.com/im-smuze/FastCheck"><h2>FastCheck</h2></br><span>a WeChat mini app for accelerating Classrome Roll Call using Face-Recognition technology. </span></a></div>
+</li>
+
+</ul>
