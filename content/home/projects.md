@@ -48,7 +48,7 @@ design:
 ---
 <ul>
 <li>
-<div><a href="https://github.com/im-smuze/FastCheck"><h2>FastCheck</h2></br><span>a WeChat mini app for accelerating Classrome Roll Call using Face-Recognition technology. </span></a></div>
+<div><a href="https://github.com/im-smuze/FastCheck"><h4>FastCheck</h4></a></br><span>a WeChat mini app for accelerating Classrome Roll Call using Face-Recognition technology. </span></div>
 </li>
 
 </ul>
