@@ -35,10 +35,6 @@ design:
   view: citation
   columns: '2'
 ---
-<style type="title">
-  
-</style>
-
 <ul>
 <li>
 <div><a href="https://github.com/im-smuze/FastCheck">
