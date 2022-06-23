@@ -36,8 +36,9 @@ design:
   columns: '2'
 ---
 <ul>
+<li>2022/06/20: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for Brain CT Classiﬁcation" was submitted to JVCIR.</li>
 <li>2022/05/17: Our recent work "Cross-modal Contrastive Attention Model for Medical Report Generation" was submitted to COLING 2022.</li>
-<li>2022/05/13: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for  Brain  CT  Classiﬁcation" was accepted by China MM 2022 and will be recommended to JVCIR.</li>
+<li>2022/05/13: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for Brain CT Classiﬁcation" was accepted by China MM 2022 and will be recommended to JVCIR.</li>
 <li>2022/05/01: Our recent work "基于多尺度超像素融合网络的脑CT图像分类方法(Multi-scale Superpixel based Fusion Network for Brain CT Classification)" was accaepted by China MM 2022.
 <li>2022/03/15: Our recent work "基于多尺度超像素融合网络的脑CT图像分类方法(Multi-scale Superpixel based Fusion Network for Brain CT Classification)" was submitted to China MM 2022.</li>
 <li>2022/03/15: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for  Brain  CT  Classiﬁcation" was submitted to China MM 2022.</li>
