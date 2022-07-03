@@ -72,6 +72,6 @@ I am now pursuing a Master's Degree at Beijing University of Technology, adivsed
 
 I received my Bachelor's Degree from University of Jinan in 2020, where I was adivsed by Prof. Lixin Du. 
 
-My research interests involve Computer Vision and its combination with Natural Language Processing, including Medical Report Generation and Image Captioning.
+My research interests involve Natural Language Processing and its combination with Computer Vision and Healthcare, including Radiology Report Generation and Image Captioning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
