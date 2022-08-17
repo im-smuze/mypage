@@ -42,7 +42,7 @@ tags: [Brain CT Classification]
 featured: true
 
 
-url_pdf: 'https://smuze.netlify.app/publication/JVCIR_Multi-scale_Superpixel_based_Hierarchical_Attention_Model_for_Brain_CT_Classification/paper.pdf'
+url_preprint: 'https://smuze.netlify.app/publication/JVCIR_Multi-scale_Superpixel_based_Hierarchical_Attention_Model_for_Brain_CT_Classification/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
