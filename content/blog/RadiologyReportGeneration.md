@@ -3,8 +3,6 @@ title: 'Radiology Report Generation'
 description: ''
 ---
 
-# Radiology Report Generation
-
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
 <!-- <p align="center">
