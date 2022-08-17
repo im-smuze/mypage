@@ -1,5 +1,5 @@
 ---
-title: 'Cross-modal Contrastive Attention Model for Medical Report Generation'
+title: 'Multi-scale Superpixel based Hierarchical Attention Model for Brain CT Classification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
