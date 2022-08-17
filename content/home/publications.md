@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -35,7 +35,9 @@ design:
   view: citation
   columns: '2'
 ---
-
+<!-- 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->
+
+{{< icon name="paper" pack="fas" >}} Xiao Song, Xiaodan Zhang, Junzhong Ji, Ying Liu, Pengxu Wei{{< staticref "papers/COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation.pdf" "newtab" >}}Cross-modal Contrastive Attention Model for Medical Report Generation{{< /staticref >}}, COLING 2022.
