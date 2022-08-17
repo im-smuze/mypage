@@ -74,4 +74,4 @@ I received my Bachelor's Degree from University of Jinan in 2020, where I was ad
 
 My research interests involve Natural Language Processing and its combination with Computer Vision and Healthcare, including Radiology Report Generation and Image Captioning.
 
-{{<i class="fa-light fa-memo"></i>My CV is {{< staticref "uploads/XiaoSong_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My CV is {{< staticref "uploads/XiaoSong_CV.pdf" "newtab" >}}here{{< /staticref >}}.
