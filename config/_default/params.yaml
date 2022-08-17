@@ -112,3 +112,4 @@ extensions:
 icon:
   pack:
     ai: false
+    fas: true
