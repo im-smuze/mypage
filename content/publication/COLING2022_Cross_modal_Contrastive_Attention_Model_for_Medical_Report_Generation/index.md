@@ -29,7 +29,7 @@ publishDate: '2022-08-16T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *COLING*
+publication: In *COLING* Oral
 # publication_short: In *ICW*
 
 abstract: 'Medical report automatic generation has gained increasing interests recently as a way to help radiologists write reports more efficiently.
