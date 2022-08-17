@@ -5,10 +5,10 @@ title: '基于多尺度超像素融合网络的脑CT图像分类方法(Brain CT 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 冀俊忠(Junzhong Ji)
-  - 张梦龙(Menglong Zhang)
-  - <strong>宋晓(Xiao Song)</strong>
-  - 张晓丹(Xiaodan Zhang)
+  - Junzhong Ji
+  - Menglong Zhang
+  - admin
+  - Xiaodan Zhang
 
 # Author notes (optional)
 author_notes:
