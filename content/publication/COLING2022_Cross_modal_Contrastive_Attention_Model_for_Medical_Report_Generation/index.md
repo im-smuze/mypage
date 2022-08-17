@@ -47,7 +47,7 @@ tags: [Radiolody Report Generation]
 featured: true
 
 
-url_pdf: https://smuze.netlify.app/papers/COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation.pdf
+url_pdf: 'https://smuze.netlify.app/publication/coling2022_cross_modal_contrastive_attention_model_for_medical_report_generation/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
