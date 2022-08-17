@@ -80,7 +80,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation
+slides: "COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation"
 ---
 
 {{% callout note %}}
