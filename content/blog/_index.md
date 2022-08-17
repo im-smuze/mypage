@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Pages
 cms_exclude: true
 
 # This file represents a page section.
