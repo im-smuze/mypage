@@ -1,4 +1,9 @@
+---
+title: 'Radiology Report Generation'
+---
+
 # Radiology Report Generation
+
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
 <!-- <p align="center">
