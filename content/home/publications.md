@@ -34,6 +34,12 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+
+feature:
+- icon: memo
+  icon_pack: custom
+  name: memo
+  description: 90%
 ---
 <!-- 
 {{% callout note %}}
