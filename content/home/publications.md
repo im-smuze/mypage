@@ -35,15 +35,10 @@ design:
   view: citation
   columns: '2'
 
-feature:
-- icon: memo
-  icon_pack: custom
-  name: memo
-  description: 90%
+
 ---
 <!-- 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}} -->
-
-{{< icon name="memo" pack="custom" >}}<strong>Xiao Song</strong>, Xiaodan Zhang, Junzhong Ji, Ying Liu, Pengxu Wei, {{< staticref "papers/COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation.pdf" "newtab" >}}Cross-modal Contrastive Attention Model for Medical Report Generation{{< /staticref >}}, COLING 2022.
+<!-- {{< icon name="memo" pack="custom" >}}<strong>Xiao Song</strong>, Xiaodan Zhang, Junzhong Ji, Ying Liu, Pengxu Wei, {{< staticref "papers/COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation.pdf" "newtab" >}}Cross-modal Contrastive Attention Model for Medical Report Generation{{< /staticref >}}, COLING 2022. -->
