@@ -1,6 +1,6 @@
 ---
-title: 'Radiology Report Generation'
-description: ''
+title: 'Radiology Report Generation: summary'
+description: 'Radiology Report Generation: summary'
 ---
 
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
