@@ -1,5 +1,5 @@
 ---
-title: 'Cross modal Contrastive Attention Model for Medical Report Generation'
+title: 'Cross-modal Contrastive Attention Model for Medical Report Generation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -47,7 +47,7 @@ tags: [Radiolody Report Generation]
 featured: true
 
 
-url_pdf: 'http://www.baidu.com'
+url_pdf: 'https://smuze.netlify.app/publication/COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Framework of our proposed model.**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ''
   preview_only: false
 
@@ -76,6 +76,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation"
+# slides: "COLING2022_Cross_modal_Contrastive_Attention_Model_for_Medical_Report_Generation"
 ---
 
