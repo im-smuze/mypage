@@ -68,7 +68,7 @@ email: "xiaos@emails.bjut.edu.cn"
 highlight_name: true
 ---
 
-I am now pursuing a MPhil's Degree at Beijing University of Technology, adivsed by Lec. Xiaodan Zhang.
+I am now pursuing a Master's Degree at Beijing University of Technology, adivsed by Lec. Xiaodan Zhang.
 
 I received my Bachelor's Degree from University of Jinan in 2020, where I was adivsed by Prof. Lixin Du. 
 
