@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 author_notes:
   - 
-  - 'Corresponding Author.\n xiaodanzhang@bjut.edu.cn'
+  - 'Corresponding Author'
 
 date: '2022-08-16T00:00:00Z'
 # doi: ''
