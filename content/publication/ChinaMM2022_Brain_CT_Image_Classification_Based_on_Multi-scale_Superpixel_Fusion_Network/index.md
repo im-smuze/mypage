@@ -8,14 +8,14 @@ authors:
   - Junzhong Ji
   - Menglong Zhang
   - admin
-  - Xiaodan Zhang
+  - Xiaodan Zhang*
 
 # Author notes (optional)
 author_notes:
   - 
   -
   -
-  - 'Corresponding Author'
+  -
 
 date: '2022-06-06T00:00:00Z'
 # doi: ''

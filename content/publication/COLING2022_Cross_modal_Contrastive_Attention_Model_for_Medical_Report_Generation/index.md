@@ -6,7 +6,7 @@ title: 'Cross-modal Contrastive Attention Model for Medical Report Generation'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Xiaodan Zhang
+  - Xiaodan Zhang*
   - Junzhong Ji
   - Ying Liu
   - Pengxu Wei
@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 author_notes:
   - 
-  - 'Corresponding Author'
+  - 
 
 date: '2022-08-16T00:00:00Z'
 # doi: ''
