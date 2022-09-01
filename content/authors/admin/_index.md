@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Eng. in Computer Science
+  - course: M.Eng. in Computer Science and Technology
     institution: Beijing University of Technology
     year: 2020-Now
-  - course: B.Eng. in Computer Science
+  - course: B.Eng. in Computer Science and Technology
     institution: University of Jinan
     year: 2016-2020
 
