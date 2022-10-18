@@ -110,4 +110,4 @@ Markdown format:
 * [uzh-dqbm-cmi/ARGON](https://github.com/uzh-dqbm-cmi/ARGON)
 
 ## 
-This work is a varision based on <a href="https://github.com/zhjohnchan/awesome-radiology-report-generation/">awesome-radiology-report-generation</a>
+This work is a varsion based on <a href="https://github.com/zhjohnchan/awesome-radiology-report-generation/">awesome-radiology-report-generation</a>
