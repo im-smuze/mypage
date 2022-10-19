@@ -29,11 +29,14 @@ Markdown format:
 ### 2022
 * [Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization](https://aclanthology.org/2022.acl-long.109/) - Karn S et al, `ACL 2022`.
 * [Radiology Report Generation with General and Specific Knowledge](https://www.sciencedirect.com/science/article/pii/S1361841522001578) - Yang S et al, `MIA 2022`.
+* [A Self-Guided Framework for Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_56) - Li J et al, `MICCAI 2022`.
+* [JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation](https://aclanthology.org/2022.coling-1.523/) - You J et al, `COLING 2022`
+* [DeltaNet: Conditional Medical Report Generation for COVID-19 Diagnosis](https://aclanthology.org/2022.coling-1.261/) - Wu X et al, `COLING 2022`
+* [Cross-modal Contrastive Attention Model for Medical Report Generation](https://aclanthology.org/2022.coling-1.210/) - Song X et al, `COLING 2022`
+* [Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training](https://arxiv.org/abs/2105.11333) - Moon J H et al, `JBHI 2022`.
 * [Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment](https://arxiv.org/abs/2112.15011) - Yang S et al, `arxiv 2022`.
 * [Trust It or Not: Confidence-Guided Automatic Radiology Report Generation](https://arxiv.org/abs/2106.10887) - Wang Y et al, `arxiv 2022`.
-* [Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training](https://arxiv.org/abs/2105.11333) - Moon J H et al, `arxiv 2022`.
 * [Knowledge Graph Construction and its Application in Automatic Radiology Report Generation from Radiologist's Dictation](https://arxiv.org/abs/2206.06308) - Kale K et al, `arxiv 2022`.
-* [A Self-Guided Framework for Radiology Report Generation](https://arxiv.org/ftp/arxiv/papers/2206/2206.09378.pdf) - Li J et al, `arxiv 2022`.
 
 
 

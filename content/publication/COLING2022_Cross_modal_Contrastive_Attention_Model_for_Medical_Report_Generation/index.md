@@ -29,7 +29,7 @@ publishDate: '2022-08-16T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 29th International Conference on Computational Linguistics (COLING)* Oral
+publication: In *The 29th International Conference on Computational Linguistics (COLING)* (pp. 2388-2397) Oral
 # publication_short: In *ICW*
 
 abstract: 'Medical report automatic generation has gained increasing interest recently as a way to help radiologists write reports more efficiently. However, this image-to-text task is rather challenging due to the typical data biases: 1) Normal physiological structures dominate the images, with only tiny abnormalities; 2) Normal descriptions accordingly dominate the reports. Existing methods have attempted to solve these problems, but they neglect to exploit useful information from similar historical cases. In this paper, we propose a novel Cross-modal Contrastive Attention (CMCA) model to capture both visual and semantic information from similar cases, with mainly two modules: a Visual Contrastive Attention Module for refining the unique abnormal regions compared to the retrieved case images; a Cross-modal Attention Module for matching the positive semantic information from the case reports. Extensive experiments on two widely-used benchmarks, IU X-Ray and MIMIC-CXR, demonstrate that the proposed model outperforms the state-of-the-art methods on almost all metrics. Further analyses also validate that our proposed model is able to improve the reports with more accurate abnormal findings and richer descriptions.'
@@ -43,7 +43,7 @@ tags: [Radiolody Report Generation]
 featured: true
 
 
-url_pdf: 'https://smuze.netlify.app/publication/coling2022_cross_modal_contrastive_attention_model_for_medical_report_generation/paper.pdf'
+url_pdf: 'https://aclanthology.org/2022.coling-1.210/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
