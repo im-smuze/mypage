@@ -6,7 +6,7 @@ title: 'Multi-scale Superpixel based Hierarchical Attention Model for Brain CT C
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Xiaodan Zhang*
+  - Xiaodan Zhang
   - Junzhong Ji
   - Ying Liu
 

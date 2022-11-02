@@ -8,7 +8,7 @@ authors:
   - Junzhong Ji
   - Menglong Zhang
   - admin
-  - Xiaodan Zhang*
+  - Xiaodan Zhang
 
 # Author notes (optional)
 author_notes:
