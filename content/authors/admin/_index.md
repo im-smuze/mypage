@@ -14,7 +14,7 @@ organizations:
   url: https://www.bjut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests involve Computer Vision and its combination with Natural Language Processing, including Medical Report Generation and Image Captioning.
+bio: My research interest involves Multi-modality (Vision-Language) and its combination with Healthcare, including Radiology Report Generation, Image Captioning, etc.
 
 # Interests to show in About widget
 interests:
