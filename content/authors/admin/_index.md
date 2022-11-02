@@ -69,9 +69,7 @@ email: "xiaos@emails.bjut.edu.cn"
 highlight_name: true
 ---
 
-I am now pursuing a Master's Degree at Beijing University of Technology, advised by A.P. Xiaodan Zhang.
-
-I received my Bachelor's Degree from University of Jinan in 2020, where I was advised by A.P. Lixin Du. 
+I am now pursuing a Master's Degree at Beijing University of Technology, advised by A.P. Xiaodan Zhang. Before that, I received my Bachelor's Degree from University of Jinan in 2020, where I was advised by A.P. Lixin Du. 
 
 My research interests involve Natural Language Processing and its combination with Computer Vision and Healthcare, including Radiology Report Generation and Image Captioning.
 
