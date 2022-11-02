@@ -44,7 +44,7 @@ tags: [Brain CT Classification]
 featured: true
 
 
-# url_pdf: 'https://smuze.netlify.app/publication/chinamm2022_brain_ct_image_classification_based_on_multi-scale_superpixel_fusion_network/paper.pdf'
+url_pdf: 'https://smuze.netlify.app/publication/chinamm2022_brain_ct_image_classification_based_on_multi-scale_superpixel_fusion_network/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
