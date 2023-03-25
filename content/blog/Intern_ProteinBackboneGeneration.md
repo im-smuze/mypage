@@ -1,6 +1,6 @@
 ---
-title: 'Intern Papers: Protein Backbone Generation'
-summary: 'Intern Papers: Protein Backbone Generation'
+title: 'Intern Paper Reading: Protein Backbone Generation'
+summary: 'Intern Paper Reading: Protein Backbone Generation'
 ---
 
 ## Diffusion Models
