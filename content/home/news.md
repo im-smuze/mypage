@@ -37,7 +37,7 @@ design:
 ---
 <ul>
 <li>2023/04/10: Our recent work "基于多源知识跨模态对齐融合的医学报告生成方法(Multi-source Knowledge Cross-model Alignment and Fusion Model for Medical Report
-Generation)" was accepted by 软件学报(Journal of Software).</li>
+Generation)" was submitted to 软件学报(Journal of Software).</li>
 <li>2023/02/09: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for Brain CT Classiﬁcation" was accepted by JVCIR.</li>
 <li>2022/08/17: Our recent work "Cross-modal Contrastive Attention Model for Medical Report Generation" was accepted by COLING 2022 Oral.</li>
 <li>2022/06/20: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for Brain CT Classiﬁcation" was submitted to JVCIR.</li>
