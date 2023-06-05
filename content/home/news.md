@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 <ul>
-<li>2023/04/27: 3 A grades (90/95/95) were given to my masteral thesis by anonymous reviewers.</li>
+<li>2023/04/27: 3 A grades were given to my masteral thesis by anonymous reviewers.</li>
 <li>2023/04/10: Our recent work "基于多源知识跨模态对齐融合的医学报告生成方法(Multi-source Knowledge Cross-model Alignment and Fusion Model for Medical Report
 Generation)" was submitted to 软件学报(Journal of Software).</li>
 <li>2023/02/09: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for Brain CT Classiﬁcation" was accepted by JVCIR.</li>
