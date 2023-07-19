@@ -66,7 +66,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 
 -name: my email
- link: 'mailto:x.song@siat.ac.cn'
+ url: 'mailto:x.song@siat.ac.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
