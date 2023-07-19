@@ -6,7 +6,7 @@ title: Xiao Song
 superuser: true
 
 # Role/position/tagline
-role: M.Eng. of Computer Science
+role: Research Assiatant
 
 # Organizations/Affiliations to show in About widget
 organizations:
