@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xiaos@emails.bjut.edu.cn'
+  link: 'mailto:x.song@siat.ac.cn'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Xiao_S_
@@ -64,7 +64,9 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xiaos@emails.bjut.edu.cn"
+email: 
+-name: my email
+ link: 'mailto:x.song@siat.ac.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
