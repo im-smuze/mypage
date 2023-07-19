@@ -43,11 +43,11 @@ content:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Xiao_S_
+  # contact_links:
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: DM Me
+  #    link: https://twitter.com/Xiao_S_
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
