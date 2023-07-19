@@ -26,13 +26,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xiaos@emials.bjut.edu.cn
+  # email: xiaos@emials.bjut.edu.cn
   # phone: 888 888 88 88
   address:
-    street: Chaoyang
-    city: Beijing
+    street: Nanshan
+    city: Shenzhan
     # region: CA
-    postcode: '100124'
+    postcode: '518055'
     country: 'China'
     country_code: 'CN'
   # coordinates:
