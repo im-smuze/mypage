@@ -10,8 +10,8 @@ role: M.Eng. of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Beijing University of Technology
-  url: https://www.bjut.edu.cn/
+- name: Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences
+  url: https://www.siat.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest involves Multi-modality (Vision-Language) and its combination with Healthcare, including Radiology Report Generation, Image Captioning, etc.
@@ -69,7 +69,8 @@ email: "xiaos@emails.bjut.edu.cn"
 highlight_name: true
 ---
 
-I am now pursuing a Master's Degree at Beijing University of Technology, advised by A.P. Xiaodan Zhang. Before that, I received my Bachelor's Degree from University of Jinan in 2020, where I was advised by A.P. Lixin Du. 
+I am now a Research Assistant Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences.
+Before that, I received my Master's Degree from Beijing University of Technology in 2023, advised by A.P. Xiaodan Zhang, and received my Bachelor's Degree from University of Jinan in 2020, where I was advised by A.P. Lixin Du. 
 
 My research interests involve Natural Language Processing and its combination with Computer Vision and Healthcare, including Radiology Report Generation and Image Captioning.
 
