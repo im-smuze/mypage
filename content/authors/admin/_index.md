@@ -10,10 +10,9 @@ role: Research Assiatant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Shenzhen Institute of Advanced Technology
+- name: Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
   url: https://www.siat.ac.cn/
-- name: Chinese Academy of Sciences
-  url: https://www.siat.ac.cn/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest involves Multi-modality (Vision-Language) and its combination with Healthcare, including Radiology Report Generation, Image Captioning, etc.
