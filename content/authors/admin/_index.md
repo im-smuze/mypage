@@ -30,7 +30,7 @@ education:
   courses:
   - course: M.Eng. in Computer Science and Technology
     institution: Beijing University of Technology
-    year: 2020-Now
+    year: 2020-2023
   - course: B.Eng. in Computer Science and Technology
     institution: University of Jinan
     year: 2016-2020
