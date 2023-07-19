@@ -11,6 +11,7 @@ role: Research Assiatant
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Shenzhen Institute of Advanced Technology
+  url: https://www.siat.ac.cn/
 - name: Chinese Academy of Sciences
   url: https://www.siat.ac.cn/
 
