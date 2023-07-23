@@ -30,7 +30,7 @@ content:
   # phone: 888 888 88 88
   address:
     street: Nanshan
-    city: Shenzhan
+    city: Shenzhen
     # region: CA
     postcode: '518055'
     country: 'China'
