@@ -51,9 +51,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/im-smuze
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.cn/injobs/in/%E6%99%93-%E5%AE%8B-054234235
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
