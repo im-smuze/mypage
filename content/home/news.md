@@ -37,7 +37,7 @@ design:
 ---
 <ul>
 <li>2023/07/13: I joined SIAT.</li>  
-<li>2023/06/26: I received my Master degree, and 3 A grades were given to my masteral thesis by anonymous reviewers.</li>  
+<li>2023/06/26: I received my Master's degree, and 3 A grades were given to my masteral thesis by anonymous reviewers.</li>  
 <li>2023/04/18: One paper submitted to 软件学报(Journal of Software).</li>
 <li>2023/02/09: One paper accepted by JVCIR.</li>
 <li>2022/08/17: One paper accepted by COLING 2022 Oral.</li>
