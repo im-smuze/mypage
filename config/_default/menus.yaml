@@ -20,9 +20,9 @@ main:
   #   url: '#talks'
   #   weight: 40
 
-  - name: Contact
-    url: '#contact'
-    weight: 60
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
   
   - name: Blogs
     # url: 'https://im-smuze.github.io/'
