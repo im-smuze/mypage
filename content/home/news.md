@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 <ul>
-<li>2023/07/13: I joint SIAT.</li>  
+<li>2023/07/13: I joined SIAT.</li>  
 <li>2023/04/27: 3 A grades were given to my masteral thesis by anonymous reviewers.</li>
 <li>2023/02/09: Our recent work "Multi-scale Superpixel based Hierarchical Attention Model  for Brain CT Classiﬁcation" was accepted by JVCIR.</li>
 <li>2022/08/17: Our recent work "Cross-modal Contrastive Attention Model for Medical Report Generation" was accepted by COLING 2022 Oral.</li>
