@@ -44,7 +44,7 @@ design:
 <li>2022/06/20: One paper submitted to JVCIR.</li>
 <li>2022/06/10: One paper accepted by 《中国科技论文》(China Sciencepaper).</li>
 <li>2022/05/17: One paper submitted to COLING 2022.</li>
-
+<li>2020/05: I joined Beijing University of Technology for persuing a Master's degree.</li>
   
 <!-- <li>2023/04/18: One paper submitted to 软件学报(Journal of Software).</li>
 <li>2023/02/09: One paper "Multi-scale Superpixel based Hierarchical Attention Model  for Brain CT Classiﬁcation" was accepted by JVCIR.</li>
