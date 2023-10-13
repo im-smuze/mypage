@@ -19,10 +19,9 @@ bio: My research interest involves Multi-modality (Vision-Language) and its comb
 
 # Interests to show in About widget
 interests:
-- Vision-Language & Healthcare
+- Multi-modality & Biomedical & Causality
 - Medical Report Generation
-- Image Captioning
-
+- Medical Image Analysis
 
 
 # Education to show in About widget
