@@ -47,7 +47,7 @@ social:
   link: https://twitter.com/Xiao_S_
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com.hk/citations?user=pgSA0u8AAAAJ&hl=zh-CN&authuser=1
+  link: https://scholar.google.com/citations?hl=zh-CN&user=XEafx9MAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/im-smuze
