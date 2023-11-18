@@ -36,6 +36,7 @@ design:
   columns: '2'
 ---
 <ul>
+<li>2023/11/17: One paper submitted to CVPR 2024.</li>  
 <li>2023/07/13: I joined SIAT.</li>  
 <li>2023/06/26: I received my Master's degree, and 3 A grades were given to my masteral thesis by anonymous reviewers.</li>  
 <li>2023/04/18: One paper submitted to 《软件学报》(Journal of Software).</li>
