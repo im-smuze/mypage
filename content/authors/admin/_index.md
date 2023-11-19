@@ -35,7 +35,7 @@ education:
 # - Medical Report Generation
 # - Medical Image Analysis
 
-Work:
+# Work:
 works:
 - work: Research Assistant,
   institution: SIAT
