@@ -31,7 +31,7 @@ education:
 
 # Interests to show in About widget
 interests:
-- Multi-modality
+- Vision & Language
 - Biomedicine
 - Causality
 
