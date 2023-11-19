@@ -17,12 +17,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest involves Multi-modality (Vision-Language) and its combination with Healthcare, including Radiology Report Generation, Image Captioning, etc.
 
-# Interests to show in About widget
-interests:
-- Multi-modality & Biomedical & Causality
-- Medical Report Generation
-- Medical Image Analysis
-
 
 # Education to show in About widget
 education:
@@ -33,6 +27,20 @@ education:
   - course: B.Eng. in Computer Science and Technology
     institution: University of Jinan
     year: 2016-2020
+
+
+# Interests to show in About widget
+# interests:
+# - Multi-modality & Biomedical & Causality
+# - Medical Report Generation
+# - Medical Image Analysis
+
+Work:
+works:
+- work: Research Assistant,
+  institution: SIAT
+  year: 2023.7-present
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
