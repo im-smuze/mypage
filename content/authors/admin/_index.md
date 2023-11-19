@@ -72,6 +72,6 @@ highlight_name: true
 I am now a Research Assistant at Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences.
 Before that, I received my Master's Degree from Beijing University of Technology in 2023, advised by A.P. Xiaodan Zhang, and received my Bachelor's Degree from University of Jinan in 2020, where I was advised by A.P. Lixin Du. 
 
-# My research interests involve Natural Language Processing and its combination with Computer Vision and Healthcare, including Radiology Report Generation and Image Captioning.
+<!-- My research interests involve Natural Language Processing and its combination with Computer Vision and Healthcare, including Radiology Report Generation and Image Captioning. -->
 
 {{< icon name="download" pack="fas" >}} My CV is {{< staticref "uploads/XiaoSong_CV.pdf" "newtab" >}}here{{< /staticref >}}.
