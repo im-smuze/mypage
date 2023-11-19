@@ -15,13 +15,9 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest involves Multi-modality (Vision-Language) and its combination with Healthcare, including Radiology Report Generation, Image Captioning, etc.
+bio: My research interest involves Multi-modality (Vision-Language), Casality, and Healthcare, including Radiology Report Generation, Image Captioning, etc.
 
-# Work:
-works:
-- work: Research Assistant,
-  institution: SIAT
-  year: 2023.7-present
+
 
 # Education to show in About widget
 education:
