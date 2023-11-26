@@ -37,7 +37,7 @@ abstract: 'Medical report automatic generation has gained increasing interest re
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Radiolody Report Generation]
+tags: [Medical Report Generation]
 
 # Display this page in the Featured widget?
 featured: true
