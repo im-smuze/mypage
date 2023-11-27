@@ -180,18 +180,15 @@ Markdown format:
 
 
 ## Datasets
-
 #### Chest
 
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
 * [MIMIC-CXR: a large publicly available database of labeled chest radiographs](https://deepai.org/publication/mimic-cxr-a-large-publicly-available-database-of-labeled-chest-radiographs) - Johnson A E W et al, `arXiv preprint 2019`.
 * [Padchest: A large chest x-ray image dataset with multi-label annotated reports](https://doi.org/10.1016/j.media.2020.101797) - Bustos A et al, `MIA 2020`.
 * [Medical-VLBERT: Medical Visual Language BERT for COVID-19 CT Report Generation With Alternate Learning](https://ieeexplore.ieee.org/abstract/document/9509365) - Liu G et al, `TNNLS 2021`.
-   
 #### Brain
 
 * [Work like a doctor: Unifying scan localizer and dynamic generator for automated computed tomography report generation](https://www.sciencedirect.com/science/article/pii/S0957417423019449) - Tang Y et al, `ESA 2023`.
-
 #### Eye
 
 * [Cross-Modal Clinical Graph Transformer for Ophthalmic Report Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Cross-Modal_Clinical_Graph_Transformer_for_Ophthalmic_Report_Generation_CVPR_2022_paper.html) - Li M et al, `CVPR 2022`.
