@@ -28,7 +28,7 @@ Markdown format:
 
 
 ### 2023
-* [Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606584](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html)) - Li M et al, `CVPR 2023`.
+* [Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html)) - Li M et al, `CVPR 2023`.
 * [Interactive and Explainable Region-guided Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Tanida_Interactive_and_Explainable_Region-Guided_Radiology_Report_Generation_CVPR_2023_paper.html) - Tim T et al, 'CVPR 2023'
 * [METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html) - Wang Z et al, 'CVPR 2023'
 * [Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation](https://ieeexplore.ieee.org/abstract/document/10045710/) - Yan S et al, 'TMI 2023'
