@@ -36,7 +36,6 @@ design:
   columns: '2'
 ---
 <ul>
-<li>张晓丹(Xiaodan Zhang), <strong>宋晓(Xiao Song)</strong>, 冀俊忠(Junzhong Ji). 一种基于跨模态对比注意力机制的医学报告自动生成方法(A Method for Automatic Medical Report Generation based on Cross-modal Contrastive Attention Mechanism). (CN202210563429.6)
-.</li>
+<li>张晓丹, <strong>宋晓(Xiao Song)</strong>, 冀俊忠. 一种基于跨模态对比注意力机制的医学报告自动生成方法(A Method for Automatic Medical Report Generation based on Cross-modal Contrastive Attention Mechanism). (CN202210563429.6).</li>
   
 </ul>
