@@ -28,15 +28,20 @@ Markdown format:
 
 
 ### 2023
-* [Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html)) - Li M et al, `CVPR 2023`.
+#### Conference
+* [Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html) - Li M et al, `CVPR 2023`.
 * [Interactive and Explainable Region-guided Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Tanida_Interactive_and_Explainable_Region-Guided_Radiology_Report_Generation_CVPR_2023_paper.html) - Tim T et al, 'CVPR 2023'
 * [METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html) - Wang Z et al, 'CVPR 2023'
-* [Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation](https://ieeexplore.ieee.org/abstract/document/10045710/) - Yan S et al, 'TMI 2023'
-* [Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning](https://www.sciencedirect.com/science/article/pii/S1361841523002426) - Gao D et al, 'MIA 2023'
-* [Radiology report generation with a learned knowledge base and multi-modal alignment](https://www.sciencedirect.com/science/article/pii/S1361841523000592) - Yang S et al, 'MIA 2023'
 * [ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning](https://arxiv.org/abs/2306.06466) - Hou W et al, 'ACL 2023'
 * [Auxiliary signal-guided knowledge encoder-decoder for medical report generation](https://link.springer.com/article/10.1007/s11280-022-01013-6) - Li M et al, 'WWW 2023'
 * [RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning](https://arxiv.org/abs/2310.13864) - Hou W et al, 'EMNLP 2023'
+* [Self adaptive global-local feature enhancement for radiology report generation](https://arxiv.org/abs/2211.11380) - Wang Y et al, `ICIP 2023`.
+* [Baselines for Automatic Medical Image Reporting](https://link.springer.com/chapter/10.1007/978-3-031-29717-5_4) - Cardillo K et al, 'Serbian International Conference on Applied Artificial Intelligence 2023'
+
+#### Journal
+* [Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation](https://ieeexplore.ieee.org/abstract/document/10045710/) - Yan S et al, 'TMI 2023'
+* [Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning](https://www.sciencedirect.com/science/article/pii/S1361841523002426) - Gao D et al, 'MIA 2023'
+* [Radiology report generation with a learned knowledge base and multi-modal alignment](https://www.sciencedirect.com/science/article/pii/S1361841523000592) - Yang S et al, 'MIA 2023'
 * [Joint Embedding of Deep Visual and Semantic Features for Medical Image Report Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606584) - Yang Y et al, `TMM 2023`.
 * [Semi-supervised Medical Report Generation via Graph-guided Hybrid Feature Consistency](https://ieeexplore.ieee.org/abstract/document/10119200/) - Ke Z et al, 'TMM 2023'
 * [Radiology report generation with medical knowledge and multilevel image-report alignment: A new method and its verification](https://www.sciencedirect.com/science/article/pii/S0933365723002282) - Zhao G et al, 'Artificial Intelligence in Medicine 2023'
@@ -44,43 +49,46 @@ Markdown format:
 * [Joint Embedding of Deep Visual and Semantic Features for Medical Image Report Generation](https://www.sciencedirect.com/science/article/pii/S0010482523011150) - Zhang X et al, `Computers in Biology and Medicine 2023`.
 * [Unsupervised disease tags for automatic radiology report generation](https://www.sciencedirect.com/science/article/pii/S1746809423011758) - Yi X et al, 
 'Biomedical Signal Processing and Control 2023'
-* [Baselines for Automatic Medical Image Reporting](https://link.springer.com/chapter/10.1007/978-3-031-29717-5_4) - Cardillo K et al, 'Serbian International Conference on Applied Artificial Intelligence 2023'
+* [Improving Chest X-Ray Report Generation by Leveraging Warm-Starting](https://arxiv.org/abs/2201.09405) - Nicolson A et al, `AIM 2023`.
 * [Vision Transformer and Language Model Based Radiology Report Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9999689) - Mohsan M et al, `IEEE Access 2023`.
 * [A deep learning based dual encoder–decoder framework for anatomical structure segmentation in chest X-ray images](https://www.nature.com/articles/s41598-023-27815-w) - Ihsan Ullah et al, 'Scientific Reports 2023'
+
+#### Preprint
 * [Cross-Modal Causal Intervention for Medical Report Generation](https://arxiv.org/abs/2303.09117) - Chen W et al, 'arxiv'
 * [Rethinking Radiology Report Generation via Causal Reasoning and Counterfactual Augmentation](https://arxiv.org/abs/2311.13307) - Song X et al, 'arxiv'
 
 
 
 ### 2022
+#### Conference
 * [Cross-Modal Clinical Graph Transformer for Ophthalmic Report Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Cross-Modal_Clinical_Graph_Transformer_for_Ophthalmic_Report_Generation_CVPR_2022_paper.html) - Li M et al, 'CVPR 2022'
 * [Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization](https://aclanthology.org/2022.acl-long.109/) - Karn S et al, `ACL 2022`.
 * [Reinforced Cross-modal Alignment for Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38.pdf) - Qin H et al, `ACL 2022`.
-* [Radiology Report Generation with General and Specific Knowledge](https://www.sciencedirect.com/science/article/pii/S1361841522001578) - Yang S et al, `MIA 2022`.
-* [Uncertainty-aware report generation for chest X-rays by variational topic inference](https://pubmed.ncbi.nlm.nih.gov/36116297/) - Najdenkoska I et al, `MIA 2022`.
-* [Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768661) - Wang Z et al, `TMI 2022`.
 * [A Self-Guided Framework for Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_56) - Li J et al, `MICCAI 2022`.
 * [RepsNet: Combining Vision with Language for Automated Medical Reports](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68) - Tanwani A et al, `MICCAI 2022`.
 * [Factual Accuracy is not Enough: Planning Consistent Description Order for Radiology Report Generation] - Toru N et al, 'EMNLP 2022'
 * [JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation](https://aclanthology.org/2022.coling-1.523/) - You J et al, `COLING 2022`
 * [DeltaNet: Conditional Medical Report Generation for COVID-19 Diagnosis](https://aclanthology.org/2022.coling-1.261/) - Wu X et al, `COLING 2022`
 * [Cross-modal Contrastive Attention Model for Medical Report Generation](https://aclanthology.org/2022.coling-1.210/) - Song X et al, `COLING 2022`
-* [Methods for automatic generation of radiological reports of chest radiographs: a comprehensive survey](https://link.springer.com/article/10.1007/s11042-021-11272-6) - Navdeep K et al, 'Multimedia Tools and Applications 2022'
+* [Cross-modal Prototype Driven Network for Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_33) - Wang J et al, `ECCV 2022`.
+* [Embracing Uniqueness: Generating Radiology Reports via a Transformer with Graph-based Distinctive Attention](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9995003) - Wang H et al, `BIBM 2022`.
+* [Memory-aligned Knowledge Graph for Clinically Accurate Radiology Image Report Generation](https://aclanthology.org/2022.bionlp-1.11.pdf) - Yan S et al, `BioNLP 2022`.
+  
+#### Journal
+* [Radiology Report Generation with General and Specific Knowledge](https://www.sciencedirect.com/science/article/pii/S1361841522001578) - Yang S et al, `MIA 2022`.
+* [Uncertainty-aware report generation for chest X-rays by variational topic inference](https://pubmed.ncbi.nlm.nih.gov/36116297/) - Najdenkoska I et al, `MIA 2022`.
+* [Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768661) - Wang Z et al, `TMI 2022`.
+* [Methods for automatic generation of radiological reports of chest radiographs: a comprehensive survey](https://link.springer.com/article/10.1007/s11042-021-11272-6) - Navdeep K et al, 'MTA 2022'.
+* [MATNet: Exploiting Multi-Modal Features for Radiology Report Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991083&tag=1) - Shang C et al, `SPL 2022`.
 * [Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training](https://arxiv.org/abs/2105.11333) - Moon J et al, `JBHI 2022`.
 * [Prior Guided Transformer for Accurate Radiology Reports Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852309) - Yan B et al, `JBHI 2022`.
-* [Cross-modal Prototype Driven Network for Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_33) - Wang J et al, `ECCV 2022`.
-* [MATNet: Exploiting Multi-Modal Features for Radiology Report Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991083&tag=1) - Shang C et al, `SPL 2022`.
 * [CheXPrune: sparse chest X-ray report generation model using multi-attention and one-shot global pruning](https://pubmed.ncbi.nlm.nih.gov/36338854/) - Kaur N et al, `JAIHC 2022`.
-* [Embracing Uniqueness: Generating Radiology Reports via a Transformer with Graph-based Distinctive Attention](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9995003) - Wang H et al, `BIBM 2022`.
 * [Prior Knowledge Enhances Radiology Report Generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285179/) - Wang S et al, `AMIA 2022`.
 * [Translating medical image to radiological report: Adaptive multilevel multi-attention approach](https://pubmed.ncbi.nlm.nih.gov/35561439/) - Gajbhiye G et al, `CMPB 2022`.
-* [Memory-aligned Knowledge Graph for Clinically Accurate Radiology Image Report Generation](https://aclanthology.org/2022.bionlp-1.11.pdf) - Yan S et al, `BioNLP 2022`.
 * [Improving Medical X-ray Report Generation by Using Knowledge Graph](https://www.mdpi.com/2076-3417/12/21/11111) - Zhang D et al, `Applied Sciences 2022`.
-* [Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generationn](https://arxiv.org/abs/2207.01208) - Yan S et al, `arxiv 2022`.
-* [Self adaptive global-local feature enhancement for radiology report generation](https://arxiv.org/abs/2211.11380) - Wang Y et al, `arxiv 2022`.
-* [Improving Chest X-Ray Report Generation by Leveraging Warm-Starting](https://arxiv.org/abs/2201.09405) - Nicolson A et al, `arxiv 2022`.
+
+#### Preprint
 * [On the Importance of Image Encoding in Automated Chest X-Ray Report Generation](https://arxiv.org/ftp/arxiv/papers/2211/2211.13465.pdf) - Nazarov O et al, `arxiv 2022`.
-* [Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment](https://arxiv.org/abs/2112.15011) - Yang S et al, `arxiv 2022`.
 * [Trust It or Not: Confidence-Guided Automatic Radiology Report Generation](https://arxiv.org/abs/2106.10887) - Wang Y et al, `arxiv 2022`.
 * [Knowledge Graph Construction and its Application in Automatic Radiology Report Generation from Radiologist's Dictation](https://arxiv.org/abs/2206.06308) - Kale K et al, `arxiv 2022`.
 * [CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation](https://arxiv.org/abs/2211.01412) - Wang J et al, `arxiv 2022`.
@@ -89,7 +97,7 @@ Markdown format:
 
 
 ### 2021
-* [Medical-VLBERT: Medical Visual Language BERT for COVID-19 CT Report Generation With Alternate Learning](https://ieeexplore.ieee.org/abstract/document/9509365) - Liu G et al, `TNNLS 2021`.
+#### Conference
 * [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) - Liu F et al, `CVPR 2021`.
 * [A Self-Boosting Framework for Automated Radiographic Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf) - Wang Z et al, `CVPR 2021`.
 * [Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation](https://proceedings.neurips.cc/paper/2021/hash/876e1c59023b1a0e95808168e1a8ff89-Abstract.html) - Liu F et al, `NeurIPS 2021`.
@@ -108,10 +116,9 @@ Markdown format:
 * [Weakly Guided Hierarchical Encoder-Decoder Network for Brain CT Report Generation](https://ieeexplore.ieee.org/abstract/document/9669626) - Yang S et al, `BIBM 2021`.
 * [Automated Radiology Report Generation Using Conditioned Transformers](https://linkinghub.elsevier.com/retrieve/pii/S2352914821000472) - Alfarghaly O et al, `IMU 2021`.
 * [Automatic Generation of Medical Report with Knowledge Graph](https://dl.acm.org/doi/10.1145/3497623.3497658) - Zhao H et al, `ICCPR 2021`.
-
-
-
-
+  
+#### Journal
+* [Medical-VLBERT: Medical Visual Language BERT for COVID-19 CT Report Generation With Alternate Learning](https://ieeexplore.ieee.org/abstract/document/9509365) - Liu G et al, `TNNLS 2021`.
 
 
 ### 2020
