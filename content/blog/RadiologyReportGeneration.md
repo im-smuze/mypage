@@ -28,7 +28,6 @@ Markdown format:
 
 
 ### 2023
-
 #### Conference
 
 * [Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html) - Li M et al, `CVPR 2023`.
@@ -39,7 +38,6 @@ Markdown format:
 * [RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning](https://arxiv.org/abs/2310.13864) - Hou W et al, 'EMNLP 2023'
 * [Self adaptive global-local feature enhancement for radiology report generation](https://arxiv.org/abs/2211.11380) - Wang Y et al, `ICIP 2023`.
 * [Baselines for Automatic Medical Image Reporting](https://link.springer.com/chapter/10.1007/978-3-031-29717-5_4) - Cardillo K et al, 'Serbian International Conference on Applied Artificial Intelligence 2023'
-
 #### Journal
 
 * [Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation](https://ieeexplore.ieee.org/abstract/document/10045710/) - Yan S et al, 'TMI 2023'
@@ -55,7 +53,6 @@ Markdown format:
 * [Improving Chest X-Ray Report Generation by Leveraging Warm-Starting](https://arxiv.org/abs/2201.09405) - Nicolson A et al, `AIM 2023`.
 * [Vision Transformer and Language Model Based Radiology Report Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9999689) - Mohsan M et al, `IEEE Access 2023`.
 * [A deep learning based dual encoder–decoder framework for anatomical structure segmentation in chest X-ray images](https://www.nature.com/articles/s41598-023-27815-w) - Ihsan Ullah et al, 'Scientific Reports 2023'
-
 #### Preprint
 
 * [Cross-Modal Causal Intervention for Medical Report Generation](https://arxiv.org/abs/2303.09117) - Chen W et al, 'arxiv'
@@ -78,7 +75,6 @@ Markdown format:
 * [Cross-modal Prototype Driven Network for Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_33) - Wang J et al, `ECCV 2022`.
 * [Embracing Uniqueness: Generating Radiology Reports via a Transformer with Graph-based Distinctive Attention](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9995003) - Wang H et al, `BIBM 2022`.
 * [Memory-aligned Knowledge Graph for Clinically Accurate Radiology Image Report Generation](https://aclanthology.org/2022.bionlp-1.11.pdf) - Yan S et al, `BioNLP 2022`.
-  
 #### Journal
 
 * [Radiology Report Generation with General and Specific Knowledge](https://www.sciencedirect.com/science/article/pii/S1361841522001578) - Yang S et al, `MIA 2022`.
@@ -92,7 +88,6 @@ Markdown format:
 * [Prior Knowledge Enhances Radiology Report Generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285179/) - Wang S et al, `AMIA 2022`.
 * [Translating medical image to radiological report: Adaptive multilevel multi-attention approach](https://pubmed.ncbi.nlm.nih.gov/35561439/) - Gajbhiye G et al, `CMPB 2022`.
 * [Improving Medical X-ray Report Generation by Using Knowledge Graph](https://www.mdpi.com/2076-3417/12/21/11111) - Zhang D et al, `Applied Sciences 2022`.
-
 #### Preprint
 
 * [On the Importance of Image Encoding in Automated Chest X-Ray Report Generation](https://arxiv.org/ftp/arxiv/papers/2211/2211.13465.pdf) - Nazarov O et al, `arxiv 2022`.
@@ -104,7 +99,6 @@ Markdown format:
 
 
 ### 2021
-
 #### Conference
 
 * [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) - Liu F et al, `CVPR 2021`.
@@ -125,7 +119,6 @@ Markdown format:
 * [Weakly Guided Hierarchical Encoder-Decoder Network for Brain CT Report Generation](https://ieeexplore.ieee.org/abstract/document/9669626) - Yang S et al, `BIBM 2021`.
 * [Automated Radiology Report Generation Using Conditioned Transformers](https://linkinghub.elsevier.com/retrieve/pii/S2352914821000472) - Alfarghaly O et al, `IMU 2021`.
 * [Automatic Generation of Medical Report with Knowledge Graph](https://dl.acm.org/doi/10.1145/3497623.3497658) - Zhao H et al, `ICCPR 2021`.
-  
 #### Journal
 
 * [Medical-VLBERT: Medical Visual Language BERT for COVID-19 CT Report Generation With Alternate Learning](https://ieeexplore.ieee.org/abstract/document/9509365) - Liu G et al, `TNNLS 2021`.
