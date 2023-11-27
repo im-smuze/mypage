@@ -203,7 +203,7 @@ Markdown format:
 * [uzh-dqbm-cmi/ARGON](https://github.com/uzh-dqbm-cmi/ARGON)
 * [ORGan](https://github.com/wjhou/ORGan)
 * [rgrg](https://github.com/ttanida/rgrg)
-* 
+  
 
 ## 
 This summary is a varsion based on <a href="https://github.com/zhjohnchan/awesome-radiology-report-generation/">awesome-radiology-report-generation</a>
