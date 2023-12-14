@@ -37,6 +37,7 @@ design:
 ---
 <ul>
 <li><strong>宋晓(Xiao Song)</strong>, 王如心. 基于反事实数据增强的放射学报告生成方法. CN202311704996.X</li>
+<br>
 <li>张晓丹, <strong>宋晓(Xiao Song)</strong>, 冀俊忠. 一种基于跨模态对比注意力机制的医学报告自动生成方法. CN202210563429.6 </li>
   
 </ul>
