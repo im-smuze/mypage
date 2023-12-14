@@ -36,6 +36,7 @@ design:
   columns: '2'
 ---
 <ul>
+<li><strong>宋晓(Xiao Song)</strong>, 王如心. 基于反事实数据增强的放射学报告生成方法(A Method for Automatic Medical Report Generation based on Counterfactual Data Augmentation). (CN202311704996.X).</li>
 <li>张晓丹, <strong>宋晓(Xiao Song)</strong>, 冀俊忠. 一种基于跨模态对比注意力机制的医学报告自动生成方法(A Method for Automatic Medical Report Generation based on Cross-modal Contrastive Attention Mechanism). (CN202210563429.6).</li>
   
 </ul>
