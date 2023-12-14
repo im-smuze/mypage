@@ -50,7 +50,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://underline.io/lecture/60118-cross-modal-contrastive-attention-model-for-medical-report-generation'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
