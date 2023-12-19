@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 # title: Biography
-title: Welcome | <a herf="https://mattxsong.github.io">Lite</a>
+title: Welcome
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
