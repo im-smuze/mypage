@@ -76,5 +76,3 @@ Before that, I received my Master's Degree from Beijing University of Technology
 <!-- My research interests involve Natural Language Processing and its combination with Computer Vision and Healthcare, including Radiology Report Generation and Image Captioning. -->
 
 {{< icon name="download" pack="fas" >}} My CV is {{< staticref "uploads/XiaoSong_CV.pdf" "newtab" >}}here{{< /staticref >}}.
-<br>
-<a herf="https://mattxsong.github.io">Lite</a>
